@@ -57,6 +57,7 @@ public class Main {
      System.out.println("Conteudos Inscritos Joao" + devJoao.getConteudosInscritos());
      System.out.println("Conteudos Concluidos Joao" + devJoao.getConteudosConcluidos());
      System.out.println("XP:" +devJoao.calcularTotalXp());
+     //fim do programa!
 
     }
 }
